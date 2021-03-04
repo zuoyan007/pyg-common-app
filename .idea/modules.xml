@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app-server/app-server.iml" filepath="$PROJECT_DIR$/app-server/app-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-utils/base-utils.iml" filepath="$PROJECT_DIR$/base-utils/base-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-base/common-base.iml" filepath="$PROJECT_DIR$/common-base/common-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/es-server/es-server.iml" filepath="$PROJECT_DIR$/es-server/es-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-server/kafka-server.iml" filepath="$PROJECT_DIR$/kafka-server/kafka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kh-db-server/kh-db-server.iml" filepath="$PROJECT_DIR$/kh-db-server/kh-db-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pyg-common-app.iml" filepath="$PROJECT_DIR$/pyg-common-app.iml" />
+    </modules>
+  </component>
+</project>
